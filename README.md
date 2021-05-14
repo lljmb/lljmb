@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, hey, hey! 👋
 
 <h3>🛠 Tech Stack</h3>
 
