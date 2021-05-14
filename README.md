@@ -7,5 +7,5 @@
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Postman API 
 
-- 📫 How to reach me: brown.jessm@icloud.com / linkedin.com/in/lljmb
+- 📫 How to reach me: brown.jessm@icloud.com / https://linkedin.com/in/lljmb
 - ⚡ Fun fact: I go cliff diving even though I can't swim (YOLO?)
