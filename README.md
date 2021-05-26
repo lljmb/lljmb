@@ -9,5 +9,5 @@ Hey all you cool cats & kittens, my name is Jessica! I'm a software engineer liv
 - 🛢 &nbsp; SQLite3 | MongoDB
 - 🔧 &nbsp; Git | Postman API 
 
-- 📫 How to reach me: [E-Mail](brown.jessm@icloud.com) / [LinkedIn](https://linkedin.com/in/lljmb)
+- 📫 How to reach me: [E-Mail](mailto:brown.jessm@icloud.com) / [LinkedIn](https://linkedin.com/in/lljmb)
 - ⚡ Fun fact: I go cliff diving even though I can't swim (YOLO?)
