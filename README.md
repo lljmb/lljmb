@@ -4,9 +4,9 @@ Hey all you cool cats & kittens, my name is Jessica! I'm a software engineer liv
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | C++ | C# 
+- 💻 &nbsp; JavaScript | Python | C++ | C# 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Express.js
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; SQLite3 | MongoDB
 - 🔧 &nbsp; Git | Postman API 
 
 - 📫 How to reach me: [Email](brown.jessm@icloud.com) / [LinkedIn](https://linkedin.com/in/lljmb)
